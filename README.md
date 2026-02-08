@@ -8,7 +8,7 @@ My project in the shape of a bulb with 10 LEDs that are placed around it!
 I wanted to take a break and create a project that wouldn't take so long... So I created this project!
 
 ## KiCad things:
-
+Here are pictures of the schematic and PCB I created in KiCad!
 ### PCB:
 
 ![image](https://cdn.hackclub.com/019c3edb-1d76-7c93-8fad-be78055801a9/sn__mek_obrazovky_2026-02-08_210411.png)
