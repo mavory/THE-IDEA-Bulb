@@ -17,6 +17,8 @@ Here are pictures of the schematic and PCB I created in KiCad!
 ### Schematic:
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjA0LCJwdXIiOiJibG9iX2lkIn19--a169ee583b3133f153918fb8a741b78bf637fed3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Sn%C3%ADmek%20obrazovky%202026-02-08%20124729.png)
 
+## BOM
+
 | Reference | Value / Type | Qty | Description |
 | :--- | :--- | :---: | :--- |
 | **U1** | NE555P | 1 | Timer |
