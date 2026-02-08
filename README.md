@@ -31,5 +31,7 @@ Here are pictures of the schematic and PCB I created in KiCad!
 | **RV1** | 50 kΩ | 1 | Potentiometer (Speed control) |
 | **J1** | Power | 1 | Power Header (2-pin) |
 | **J2** | Debug / Signal | 1 | Signal Output Pin |
+|        |                |   |                    |
+| **PCB** | Black | With shipping | 3.50 USD |
 
 
