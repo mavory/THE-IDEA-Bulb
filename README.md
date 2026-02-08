@@ -17,5 +17,17 @@ Here are pictures of the schematic and PCB I created in KiCad!
 ### Schematic:
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjA0LCJwdXIiOiJibG9iX2lkIn19--a169ee583b3133f153918fb8a741b78bf637fed3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Sn%C3%ADmek%20obrazovky%202026-02-08%20124729.png)
 
+| Reference | Value / Type | Qty | Description |
+| :--- | :--- | :---: | :--- |
+| **U1** | NE555P | 1 | Timer |
+| **U2** | 4017 | 1 | Coun |
+| **D1 - D10** | LED | 10 | Standard LED |
+| **C1** | 1 µF | 1 | Electrolytic Capacitor |
+| **C2** | 0.01 µF | 1 | Ceramic Capacitor |
+| **R1** | 470 Ω | 1 | Resistor |
+| **R2** | 1 kΩ | 1 | Resistor |
+| **RV1** | 50 kΩ | 1 | Potentiometer (Speed control) |
+| **J1** | Power | 1 | Power Header (2-pin) |
+| **J2** | Debug / Signal | 1 | Signal Output Pin |
 
 
