@@ -1,11 +1,13 @@
-Designator,Value,Quantity,Package,Description
-U1,NE555P,1,DIP-8,Precision Timer IC
-U2,4017,1,DIP-16,Decade Counter / Divider
-D1-D10,LED,10,LED_5mm,Standard LED
-C1,1 uF,1,CPol,Electrolytic Capacitor
-C2,0.01 uF,1,C_Small,Ceramic Capacitor
-R1,470,1,R_Axial,Resistor (Current limiting)
-R2,1k,1,R_Axial,Resistor
-RV1,50k,1,Potentiometer,Potentiometer (Speed control)
-J1,Power,1,Conn_01x02,Power Header (2-pin)
-J2,Debug,1,Conn_01x01,Signal Output Pin (Test)
+| Reference | Value / Type | Qty | Description |
+| :--- | :--- | :---: | :--- |
+| **U1** | NE555P | 1 | Timer |
+| **U2** | 4017 | 1 | Coun |
+| **D1 - D10** | LED | 10 | Standard LED |
+| **C1** | 1 µF | 1 | Electrolytic Capacitor |
+| **C2** | 0.01 µF | 1 | Ceramic Capacitor |
+| **R1** | 470 Ω | 1 | Resistor |
+| **R2** | 1 kΩ | 1 | Resistor |
+| **RV1** | 50 kΩ | 1 | Potentiometer (Speed control) |
+| **J1** | Power | 1 | Power Header (2-pin) |
+| **J2** | Debug / Signal | 1 | Signal Output Pin |
+
