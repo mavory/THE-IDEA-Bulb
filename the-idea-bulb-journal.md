@@ -8,7 +8,9 @@ _Time spent: 0.7h_
 
 When I was thinking about what my next **project** would be, I wanted to choose something **easier** so I could take a **break**. I chose the _Blinky board_, but I was thinking about the shape...
 First I wanted to make a **Zeus lightning bolt**, but it didn't work because the parts didn't fit, so I used a **light bulb** as a template.
+
 ![Screenshot 2026-02-08 132717](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjAxLCJwdXIiOiJibG9iX2lkIn19--e231bbdfba33e38c73cd59fb45c5854410ec186b/Sn%C3%ADmek%20obrazovky%202026-02-08%20132717.png)
+
 Gradually I started **sketching** and I could start **creating**!  
 
 # 2/8/2026 6:27 PM - KiCad diagram  
@@ -27,6 +29,7 @@ _Time spent: 0.6h_
 I ran the check and I had about **1-2 problems** there, because I numbered the **potentiometer** wrong, but I quickly solved that and was able to go to the **PCB**!!
 So, at first I took the bulb image, converted it to **.dxf** format and inserted it into KiCad... Sometimes it was too small, sometimes too large, so I had to choose the right size so that **everything** was within **100x100mm**.
 Then I traced the image in the edges layer and I had the **base** ready.
+
 ![Snímek obrazovky 2026-02-08 133724](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjE0LCJwdXIiOiJibG9iX2lkIn19--f3bd60dcd6d45a124dbbb8f0ed743bf90283739f/Sn%C3%ADmek%20obrazovky%202026-02-08%20133724.png)
   
 
@@ -38,6 +41,7 @@ I started to assemble the bulb with all the **components** and thought about whe
 I had **no** **idea** what would go where, but I started with the N16 and then it went **quickly**! (thank goodness)
 But I ran into a _big problem_. I had to figure out how I would place the **LEDs** so that they were at least somewhat symmetrically placed. So I measured each LED about **20 times** and wondered why it didn't fit me... And then **I** **noticed** that I had the lines different the whole time (each one had a different angle and length).
 So I redid it and then it was quick to put it together.
+
 ![Snímek obrazovky 2026-02-08 142658](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjE4LCJwdXIiOiJibG9iX2lkIn19--9fd6b22b040865fbfea6a0363fe0fdb8eea80c81/Sn%C3%ADmek%20obrazovky%202026-02-08%20142658.png)
   
 
@@ -47,8 +51,11 @@ _Time spent: 1.3h_
 
 Next, I continued with connecting all the components to the **PCB** and I have to say that it didn't turn out **so** **badly**! The most **time-consuming** part was probably editing the paths so that they were well-aligned and not scattered everywhere. I also copied the values ​​on the **PCB** so that I knew what would go where and so that I wouldn't get it **mixed** up.
 I noticed that I hadn't finished the bottom part of the **border** either, so I quickly finished it and also added the **text**! 
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjIzLCJwdXIiOiJibG9iX2lkIn19--b235eef2d7f20eeda710c8134652e0346c2c0437/image.png)
+
 I also took the **inside** of the light bulb and converted it to a **.dxf** file again and inserted it into the **silkscreen** **layer**. I played around with it a bit and was able to continue with minor adjustments like centering and other **things**...
+
 ![Snímek obrazovky 2026-02-08 152733](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjI1LCJwdXIiOiJibG9iX2lkIn19--e23858f85b57bcf5539272934876175e7fa4613e/Sn%C3%ADmek%20obrazovky%202026-02-08%20152733.png)
 
   
@@ -58,6 +65,7 @@ I also took the **inside** of the light bulb and converted it to a **.dxf** file
 _Time spent: 1.0h_  
 
 So when I had **everything** ready, we started exporting all the **stuff** and putting it on GitHub. We also found out the price of the PCB, which costs **2 USD**.
+
 ![Screenshot_20260208_222329_Chrome](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNzM4LCJwdXIiOiJibG9iX2lkIn19--9fddf870a04889a4dc44800131e3a5ee6f80e63e/Screenshot_20260208_222329_Chrome.jpg)
   
 
