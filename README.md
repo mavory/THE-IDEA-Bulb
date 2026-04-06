@@ -1,7 +1,7 @@
 # "THE IDEA." Bulb
 My project in the shape of a bulb with 10 LEDs that are placed around it!
 
-![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjcxLCJwdXIiOiJibG9iX2lkIn19--7fb95826e4ec3a3122cea9341cedef60d7bbc410/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3 JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiO jgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjcxLCJwdXIiOiJibG9iX2lkIn19--7fb95826e4ec3a3122cea9341cedef60d7bbc410/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiO jgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
 
 ### Why did I do this?
 
