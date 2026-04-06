@@ -38,18 +38,6 @@ Here are pictures of the schematic and PCB I created in KiCad!
 
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0Y SI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6ey Jmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOj gwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
 
-  |
-| **R2** | 1 kΩ | 1 | Resistor |
-| **RV1** | 50 kΩ | 1 | Potentiometer (Speed ​​​​control) |
-| **J1** | Power| 1 | Power Header (2-pin) |
-| **J2** | Debug / Signal | 1 | Signal Output Pin |
-|        |                |   |                    |
-| **PCB** | Black | With shipping | 3.50 USD |
-
-## Project
-
-![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0Y SI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6ey Jmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOj gwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
-
 
 Here is a video, it works: https://youtube.com/shorts/iOuM33JNCGg?is=_r2Ftzi8CJoQdTDR
  
