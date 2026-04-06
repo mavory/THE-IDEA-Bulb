@@ -1,7 +1,7 @@
 # "THE IDEA." Bulb
 My project in the shape of a bulb with 10 LEDs that are placed around it!
 
-![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjcxLCJwdXIiOiJibG9iX2lkIn19--7fb95826e4ec3a3122cea9341cedef60d7bbc410/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjcxLCJwdXIiOiJibG9iX2lkIn19--7fb95826e4ec3a3122cea9341cedef60d7bbc410/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3 JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiO jgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
 
 ### Why did I do this?
 
@@ -15,26 +15,69 @@ Here are pictures of the schematic and PCB I created in KiCad!
 ![image](https://cdn.hackclub.com/019c3edb-1d76-7c93-8fad-be78055801a9/sn__mek_obrazovky_2026-02-08_210411.png)
 
 ### Schematic:
-![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjA0LCJwdXIiOiJibG9iX2lkIn19--a169ee583b3133f153918fb8a741b78bf637fed3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Sn%C3%ADmek%20obrazovky%202026-02-08%20124729.png)
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNj A0LCJwdXIiOiJibG9iX2lkIn19--a169ee583b3133f153918fb8a741b78bf637fed3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmci LCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJw dXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Sn%C3%ADmek%20screens%202026-02-08%20124729.png)
 
 ## BOM
 
 | Reference | Value / Type | Qty | Description |
 | :--- | :--- | :---: | :--- |
 | **U1** | NE555P | 1 | Timer |
-| **U2** | 4017 | 1 | Coun |
-| **D1 - D10** | LED | 10 | Standard LED |
+| **U2** | 4017 | 1 | Coun
+| **D1 - D10** | LEDs | 10 | Standard LED |
 | **C1** | 1 µF | 1 | Electrolytic Capacitor |
 | **C2** | 0.01 µF | 1 | Ceramic Capacitor |
 | **R1** | 470 Ω | 1 | Resistor |
 | **R2** | 1 kΩ | 1 | Resistor |
-| **RV1** | 50 kΩ | 1 | Potentiometer (Speed control) |
-| **J1** | Power | 1 | Power Header (2-pin) |
+| **RV1** | 50 kΩ | 1 | Potentiometer (Speed ​​​​control) |
+| **J1** | Power| 1 | Power Header (2-pin) |
 | **J2** | Debug / Signal | 1 | Signal Output Pin |
 |        |                |   |                    |
 | **PCB** | Black | With shipping | 3.50 USD |
 
 ## Project
 
-![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0Y SI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6ey Jmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOj gwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
 
+ # "THE IDEA." Bulb
+My project in the shape of a bulb with 10 LEDs that are placed around it!
+
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNjcxLCJwdXIiOiJibG9iX2lkIn19--7fb95826e4ec3a3122cea9341cedef60d7bbc410/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3 JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiO jgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
+
+### Why did I do this?
+
+I wanted to take a break and create a project that wouldn't take so long... So I created this project!
+
+
+## KiCad things:
+Here are pictures of the schematic and PCB I created in KiCad!
+### PCB:
+
+![image](https://cdn.hackclub.com/019c3edb-1d76-7c93-8fad-be78055801a9/sn__mek_obrazovky_2026-02-08_210411.png)
+
+### Schematic:
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNj A0LCJwdXIiOiJibG9iX2lkIn19--a169ee583b3133f153918fb8a741b78bf637fed3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmci LCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJw dXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Sn%C3%ADmek%20screens%202026-02-08%20124729.png)
+
+## BOM
+
+| Reference | Value / Type | Qty | Description |
+| :--- | :--- | :---: | :--- |
+| **U1** | NE555P | 1 | Timer |
+| **U2** | 4017 | 1 | Coun
+| **D1 - D10** | LEDs | 10 | Standard LED |
+| **C1** | 1 µF | 1 | Electrolytic Capacitor |
+| **C2** | 0.01 µF | 1 | Ceramic Capacitor |
+| **R1** | 470 Ω | 1 | Resistor |
+| **R2** | 1 kΩ | 1 | Resistor |
+| **RV1** | 50 kΩ | 1 | Potentiometer (Speed ​​​​control) |
+| **J1** | Power| 1 | Power Header (2-pin) |
+| **J2** | Debug / Signal | 1 | Signal Output Pin |
+|        |                |   |                    |
+| **PCB** | Black | With shipping | 3.50 USD |
+
+## Project
+
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0Y SI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6ey Jmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOj gwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
+
+
+Here is a video, it works: https://youtube.com/shorts/iOuM33JNCGg?is=_r2Ftzi8CJoQdTDR
+ 
