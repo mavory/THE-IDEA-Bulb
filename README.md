@@ -15,7 +15,7 @@ Here are pictures of the schematic and PCB I created in KiCad!
 ![image](https://cdn.hackclub.com/019c3edb-1d76-7c93-8fad-be78055801a9/sn__mek_obrazovky_2026-02-08_210411.png)
 
 ### Schematic:
-![image](https://github.com/mavory/THE-IDEA-Bulb/blob/main/Circuit%20diagram%2FBlinky.pdf)
+![pdf](https://github.com/mavory/THE-IDEA-Bulb/blob/main/Circuit%20diagram%2FBlinky.pdf)
 
 ## BOM
 
