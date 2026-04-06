@@ -36,8 +36,7 @@ Here are pictures of the schematic and PCB I created in KiCad!
 
 ## Project
 
-![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19m--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOj 
-gwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIwODU5LCJwdXIiOiJibG9iX2lkIn19m--24f43dd5cab9471c5c192b73359e55ff45f8247e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--15ca3815f01a5683e19ea0585d2eef9af9e441d7/1000026680.jpg)
 
 
 Here is a video, it works: https://youtube.com/shorts/iOuM33JNCGg?is=_r2Ftzi8CJoQdTDR
